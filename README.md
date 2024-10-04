@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou Samara👋</h1>
 
 - 👩🏽‍💻Pronomes: ela/dela
-- 🌱Estudando: Python | SQL | JavaScript
+- 🌱Estudando: HTML | CSS | SQL | JavaScript | React 
 - Voluntária no Grupo de Estudo e Pesquisa em Artificial Intelligence e Data Analytics. 
 
 ##
