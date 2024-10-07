@@ -2,7 +2,7 @@
 
 - 👩🏽‍💻Pronomes: ela/dela
 - 🌱Estudando: HTML | CSS | SQL | JavaScript | React 
-- Voluntária no Grupo de Estudo e Pesquisa em Artificial Intelligence e Data Analytics. 
+- Voluntária no Grupo de Pesquisa Turmalinas Tech - UNIESP
 
 ##
 
